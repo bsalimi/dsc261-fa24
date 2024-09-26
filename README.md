@@ -94,6 +94,7 @@ Evaluation will consider:
 5. **Peer Reviews** (constructive feedback from and to peers)
 
 
+Titles and abstracts of courses in the last offering can be found here: [Past Projects](past_projects.md)
 
 ## Project Timeline
 
