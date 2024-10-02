@@ -102,7 +102,7 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 - **Activities**: Introduction to course and project guidelines. Begin forming teams.
 
 ### Week 2: Team Formation and Topic Selection
-- **Activities**: Finalize teams [here](https://forms.gle/Cwzqtrn5reG9K2pt8). Select project topics and submit initial ideas for approval.
+- **Activities**: Finalize teams [here](https://docs.google.com/spreadsheets/d/1sO7Y_b_YuelmC2Ys_ggKFK-Jkxeh5RuPyoeJZesLF1M/edit?gid=0#gid=0). Select project topics and submit initial ideas for approval.
 
 ### Week 3: Project Proposal Development
 - **Activities**: Develop and refine project proposals. Closely work with TAs for brainstorming. Outline objectives, methodologies, and expected outcomes.
