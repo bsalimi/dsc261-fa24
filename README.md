@@ -33,7 +33,7 @@ Tuesdays and Thursdays at	3:30pm-4:50pm
 
 
 **Office Hours:**
-TBD
+Babak: Mondays 2 pm.
 
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
