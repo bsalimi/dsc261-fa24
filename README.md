@@ -27,7 +27,7 @@ Parjanya Prashant, [pprashant@ucsd.edu](mailto:pprashant@ucsd.edu)
 
 **Lectures**:
 
-Tuesdays and Thursdays at	3:00pm-4:20pm
+Tuesdays and Thursdays at	3:30pm-4:50pm
 
 
 
@@ -135,7 +135,7 @@ Evaluation will consider:
 
 | Week | Date | Lecture Topics | Slides | Readings |
 |------|------|----------------|--------|----------|
-| 1    |      |                |        |          |
+| 1    |  Oct 1    |     Introduction           |  [Introduction and Course Overview](https://drive.google.com/file/d/1-Vxxf6rQRE6h3SczQq0VXdqqYzRH9f5s/view?usp=sharing)  [Introduction to Causal Inference](https://drive.google.com/file/d/1-c3cbYkAfX9MNF16m_-FiRi-ZzSt5PXU/view?usp=sharing)    |       * [Yuval Noah Harari argues that AI has hacked the operating system of human civilization](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)<br> * [Book Extract: Yuval Noah Harari on AI](https://www.theguardian.com/technology/article/2024/aug/24/yuval-noah-harari-ai-book-extract-nexus)<br> * [President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence)<br> * [AI, Fake News, and Misinformation](https://www.washingtonpost.com/technology/2023/12/17/ai-fake-news-misinformation/)<br> * [Generative AI is the Ultimate Disinformation Amplifier](https://akademie.dw.com/en/generative-ai-is-the-ultimate-disinformation-amplifier/a-68593890)  |
 | 2    |      |                |        |          |
 | 3    |      |                |        |          |
 | 4    |      |                |        |          |
