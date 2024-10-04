@@ -34,7 +34,7 @@ Tuesdays and Thursdays at	3:30pm-4:50pm
 
 **Office Hours:**
 Babak: Mondays 2 pm.
-
+TAs (Jiongli/Parjanya): Wednesdays 9 am
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
