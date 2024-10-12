@@ -104,9 +104,11 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 
 ### Week 2: Team Formation and Topic Selection
 - **Activities**: Finalize teams [here](https://docs.google.com/spreadsheets/d/1sO7Y_b_YuelmC2Ys_ggKFK-Jkxeh5RuPyoeJZesLF1M/edit?gid=0#gid=0). Select project topics and submit initial ideas for approval.
+- **Signup**: Sign up for the presentation time [here](https://docs.google.com/spreadsheets/d/13eWRHsXzwiKXDK9C1TbWrGLuO-o7ax1oOy4_BFxpuO0/edit?gid=0#gid=0).
 
 ### Week 3: Project Proposal Development
 - **Activities**: Develop and refine project proposals. Closely work with TAs for brainstorming. Outline objectives, methodologies, and expected outcomes.
+- **Template**: Please use this [template](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz) for proposal and final reports.
 
 ### Week 4: Proposal Submission and Feedback
 - **Activities**: Submit detailed project proposals. Receive feedback from the TAs and make necessary adjustments.
