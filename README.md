@@ -140,10 +140,10 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 | Week | Date | Lecture Topics | Slides | Readings |
 |------|------|----------------|--------|----------|
 | 1    |  Oct 1    |     Introduction           |  [Introduction and Course Overview](https://drive.google.com/file/d/1-Vxxf6rQRE6h3SczQq0VXdqqYzRH9f5s/view?usp=sharing)  [Introduction to Causal Inference](https://drive.google.com/file/d/1-c3cbYkAfX9MNF16m_-FiRi-ZzSt5PXU/view?usp=sharing)    |       * [Yuval Noah Harari argues that AI has hacked the operating system of human civilization](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)<br> * [Book Extract: Yuval Noah Harari on AI](https://www.theguardian.com/technology/article/2024/aug/24/yuval-noah-harari-ai-book-extract-nexus)<br> * [President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence)<br> * [AI, Fake News, and Misinformation](https://www.washingtonpost.com/technology/2023/12/17/ai-fake-news-misinformation/)<br> * [Generative AI is the Ultimate Disinformation Amplifier](https://akademie.dw.com/en/generative-ai-is-the-ultimate-disinformation-amplifier/a-68593890)  |
-| 2    |      |                |        |          |
-| 3    |      |                |        |          |
-| 4    |      |                |        |          |
-| 5    |      |                |        |          |
+| 2    |   Oct 8   |        Graphical Models and Potential Outcomes        |    [Graphical Models](https://drive.google.com/file/d/1-2uXezfU5uWyZ29g_ijtpYoQRskokzpO/view?usp=sharing) [Potential Outcomes](https://drive.google.com/file/d/1-3DO_Z25rcU1x5adhIwEv_39JWj41tk4/view)    |          |
+| 3    |   Oct 15   |        Structural Causal Models        |    [Structural Causal Models](https://drive.google.com/file/d/11kuirVbjFGp6gLN-WWgjWYvlLC3SuNc6/view?usp=sharing)    |          |
+| 4    |   Oct 22   |        Algorithmic Fairness        |    [Algorithmic Fairness](https://drive.google.com/file/d/11MqXj5uQfXfYJ30EyMIMz9N4u2R7ZjZ4/view)    |          |
+| 5    |   Oct 29   |                |        |          |
 | 6    |      |                |        |          |
 | 7    |      |                |        |          |
 | 8    |      |                |        |          |
