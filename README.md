@@ -144,11 +144,11 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 | 3    |   Oct 15   |        Structural Causal Models        |    [Structural Causal Models](https://drive.google.com/file/d/11kuirVbjFGp6gLN-WWgjWYvlLC3SuNc6/view?usp=sharing)    |          |
 | 4    |   Oct 22   |        Algorithmic Fairness        |    [Algorithmic Fairness](https://drive.google.com/file/d/11MqXj5uQfXfYJ30EyMIMz9N4u2R7ZjZ4/view?usp=sharing)    |          |
 | 5    |   Nov 7   |      Bias Mitigation            |   [Bias Mitigation](https://drive.google.com/file/d/11MqXj5uQfXfYJ30EyMIMz9N4u2R7ZjZ4/view?usp=sharing)       |  <br> * [Optimal Transport Blog Post](https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/) <br> * [Paper 1](https://arxiv.org/abs/2403.02372) [Paper 2](https://arxiv.org/abs/2212.10839)           |
-| 6    |      |                |        |          |
-| 7    |      |                |        |          |
-| 8    |      |                |        |          |
-| 9    |      |                |        |          |
-| 10   |      |                |        |          |
+| 6    | Nov 12 |                |        |          |
+| 7    | Nov 14 |                |        |          |
+| 8    | Nov 19 |                |        |          |
+| 9    | Nov 21 |                |        |          |
+| 10   | Nov 26 |                |        |          |
        
 
 **Note**: The readings and slides are placeholders and should be replaced with actual links to resources.
