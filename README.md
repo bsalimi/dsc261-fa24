@@ -147,7 +147,7 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 | 6    | Nov 12 |  Group 4 Presentation  <br> Group 1 Presentation   |        | * [Group 4 Paper 1](https://www.nature.com/articles/s42256-019-0048-x) <br> * [Group 1 Paper 1](https://proceedings.neurips.cc/paper/2018/hash/d04863f100d59b3eb688a11f95b0ae60-Abstract.html) [Group 1 Paper 2](https://proceedings.mlr.press/v80/mirman18b/mirman18b.pdf) [Group 1 Paper 3](https://arxiv.org/abs/2210.07394)      |
 | 7    | Nov 14 | Group 2 Presentation  <br> Group 5 Presentation   |        |          |
 | 8    | Nov 19 | Group 8 Presentation  <br> Group 9 Presentation               |        |          |
-| 9    | Nov 21 | Group 6 Presentation  <br> Group 7 Presentation               |        |          |
+| 9    | Nov 21 | Group 6 Presentation  <br> Group 7 Presentation               |        | * [Group 6 Paper 1](https://arxiv.org/abs/2312.04350) [Group 6 Paper 2](https://arxiv.org/abs/2305.00050) <br> * [Group 7 Paper 1](https://arxiv.org/abs/2201.12872) [Group 7 Paper 2](https://arxiv.org/abs/2103.05045)     |
 | 10   | Nov 26 |                |        |          |
        
 
